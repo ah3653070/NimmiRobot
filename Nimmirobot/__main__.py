@@ -89,7 +89,7 @@ Welcome to the help menu!
 
 NIMMIROBOT_IMG = "https://i.imgur.com/1aKfIG3.jpg"
 
-DONATE_STRING = """donation contact @tubots"""
+DONATE_STRING = """donation for @Royalbotz"""
 
 IMPORTED = {}
 MIGRATEABLE = []
