@@ -214,20 +214,20 @@ def start(update: Update, context: CallbackContext):
                         ],
                         [
                             InlineKeyboardButton(
-                                text="Support Group",
-                                url=f"https://t.me/unitedbotsupport",
+                                text="𝚜𝚞𝚙𝚙𝚘𝚛𝚝 𝚝𝚎𝚊𝚖",
+                                url=f"https://t.me/TgBotsChat",
                             ),
                         ],
                         [
                             InlineKeyboardButton(
-                                text="guide",
+                                text="𝚐𝚞𝚒𝚍𝚎",
                                 url="https://tubots",
                             )
                         ],
                         [
                             InlineKeyboardButton(
-                                text="source code",
-                                url="https://github.com/Basi-mon/Nimmi-Robot",
+                                text="𝚄𝚙𝚍𝚊𝚝𝚎 𝚌𝚑𝚊𝚗𝚗𝚎𝚕",
+                                url="https://github.com/",
                             )
                         ],
                     ]
